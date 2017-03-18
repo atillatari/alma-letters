@@ -1,2 +1,4 @@
 # alma-letters
-Edited Alma letters (UNIS Library)
+Edited (Ex Libris) Alma letters (UNIS Library)
+
+XSL files edited for the UNIS Library.
